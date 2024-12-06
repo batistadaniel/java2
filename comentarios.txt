@@ -1,0 +1,13 @@
+// importacao de classes
+
+// cria o objeto de entrada
+
+// cria um objeto empresa da classe Empresa, inicializando-o o contrutor com os valores nomeEmpresa e cnpj
+
+// declaram dois atributos (nomeEmpresa e cnpj) da classe como privados, ou seja, só podem ser acessados diretamente dentro da própria classe.
+
+// declara uma lista de departamentos como privada e final, ou seja, a lista não pode ser substituída, mas seus elementos podem ser alterados.
+
+// declara um objeto Scanner como privado e final, ou seja, ele não pode ser trocado após ser inicializado.
+
+// cria o construtor da classe, inicializando seus atributos.
